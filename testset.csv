@@ -1,0 +1,21 @@
+Temperature,Wind,Weather,Court Condition,Court,Humidity,Will Play
+High,Low,Rainy,Clay,Enclosed Environment,Mild,Yes
+Low,Low,Overcast,Grassy,Open Air,Low,Yes
+Mild,High,Overcast,Grassy,Open Air,High,No
+Mild,Mild,Rainy,Grassy,Open Air,High,No
+Low,Low,Sunny,Grassy,Enclosed Environment,Low,Yes
+High,Low,Rainy,Clay,Open Air,Low,No
+Mild,Low,Sunny,Grassy,Open Air,Low,Yes
+High,High,Rainy,Cemented,Open Air,High,No
+Mild,High,Sunny,Grassy,Enclosed Environment,High,No
+Low,Low,Sunny,Cemented,Enclosed Environment,High,No
+High,Low,Rainy,Clay,Enclosed Environment,Low,Yes
+High,Mild,Overcast,Cemented,Open Air,Low,Yes
+Low,Low,Rainy,Grassy,Enclosed Environment,Low,Yes
+Low,Mild,Sunny,Grassy,Enclosed Environment,High,No
+Mild,Mild,Rainy,Grassy,Open Air,Mild,No
+High,Low,Overcast,Cemented,Open Air,High,No
+Mild,Low,Sunny,Cemented,Open Air,Mild,Yes
+Mild,Low,Sunny,Grassy,Enclosed Environment,High,No
+Mild,High,Overcast,Grassy,Open Air,Low,Yes
+High,Low,Overcast,Cemented,Enclosed Environment,Mild,Yes
